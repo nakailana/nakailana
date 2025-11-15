@@ -1,13 +1,14 @@
-## Hi, I'm Lana! Nice to meet you 👋
+## Hi, I'm Lana! 👋
 
-💬 About me!
+💬 About me:
 
-Some of my skills are:
+⚡ Some of my skills:
 - Version Control (Git)
 - Java
 
-- 🔭 I’m currently working on learning React
-- 📫 How to reach me: lana.nakai07@gmail.com
+🔭 I’m currently working on learning React
+📫 Feel free to reach out:
+ https://www.linkedin.com/in/lana-nakai-ba4676375/
 
 <!--
 - 🔭 I’m currently working on ...
