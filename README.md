@@ -7,8 +7,7 @@
 - Java
 
 🔭 I’m currently working on learning React
-📫 Feel free to reach out:
- https://www.linkedin.com/in/lana-nakai-ba4676375/
+📫 Feel free to reach out: https://www.linkedin.com/in/lana-nakai-ba4676375/
 
 <!--
 - 🔭 I’m currently working on ...
