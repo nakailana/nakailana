@@ -1,14 +1,10 @@
-## Hi, I'm Lana! 👋
+# Hi, I'm Lana Nakai 👋
 
-💬 About me:
+Computer Science @ the University of British Columbia, Vancouver.
 
-⚡ Some of my skills:
-- Version Control (Git)
-- Java
-
-🔭 I’m currently working on learning React
-
-📫 Feel free to reach out: https://www.linkedin.com/in/lana-nakai-ba4676375/
+### Let's connect!
+- [linkedin](https://www.linkedin.com/in/lana-nakai)
+- lana.nakai07@gmail.com
 
 <!--
 - 🔭 I’m currently working on ...
